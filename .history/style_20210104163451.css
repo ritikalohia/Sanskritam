@@ -152,7 +152,7 @@ header .navigation li a.left:hover:before {
     height: 300px;
     border-radius: 5px; 
     /* margin: 20px; */
-    margin-left: 40px;
+    margin-left: 109px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -180,9 +180,9 @@ header .navigation li a.left:hover:before {
       background-color: #20887f;
     }
 
-    .C2{
+    /* .C2{
         background-color: #A73C11;
-    }   
+    } */    
 
     .C3{
         background-color: #FF6F32; 
@@ -192,15 +192,15 @@ header .navigation li a.left:hover:before {
         background-color: #FFBB58;    
     }
 
-    .cards:hover{
+    /* .cards:hover{
       font-size: 0;
       box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
-  } 
+  } */
 
-    .sanskrit .cards:hover:after{
+    /* .sanskrit .cards:hover:after{
         content: attr(data-hover);
         font-size: 30px;
-    } 
+    } */
 
 
 

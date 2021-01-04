@@ -195,12 +195,12 @@ header .navigation li a.left:hover:before {
     .cards:hover{
       font-size: 0;
       box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
-  } 
+  } */
 
-    .sanskrit .cards:hover:after{
+    /* .sanskrit .cards:hover:after{
         content: attr(data-hover);
         font-size: 30px;
-    } 
+    } */
 
 
 
